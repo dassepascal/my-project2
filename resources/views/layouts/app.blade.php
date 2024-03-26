@@ -16,7 +16,7 @@
     </head>
     <body id="app" class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
-            @include('layouts.nav')
+            @include('layouts.nav3')
 
             <!-- Page Heading -->
             @if (isset($header))
